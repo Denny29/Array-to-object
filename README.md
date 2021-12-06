@@ -1,2 +1,2 @@
-# Array-to-object
+# array-to-object
 Created with CodeSandbox
